@@ -1,3 +1,4 @@
 /.idea
 /vendor
 beego_docker
+beego_docker_test
